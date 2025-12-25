@@ -1,0 +1,11 @@
+use:
+    XXXXXXX [dd/mm/yy]
+
+list:
+    changlog     = Content on file UM\changelog
+    versionX.X.X = version
+    CnL          = Content on folder CnL
+    mpyc-core    = Content on folder mpyc-core
+
+---------------------------------------------------------------------
+
